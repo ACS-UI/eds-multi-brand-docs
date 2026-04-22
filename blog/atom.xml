@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://acs-ui.github.io/eds-multi-brand-docs/blog</id>
+    <title>EDS Multi-Brand Documentation Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://acs-ui.github.io/eds-multi-brand-docs/blog"/>
+    <subtitle>EDS Multi-Brand Documentation Blog</subtitle>
+    <icon>https://acs-ui.github.io/eds-multi-brand-docs/img/adobe-franklin-logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to AEM Multi-Brand Documentation]]></title>
+        <id>https://acs-ui.github.io/eds-multi-brand-docs/blog/welcome</id>
+        <link href="https://acs-ui.github.io/eds-multi-brand-docs/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the AEM Multi-Brand project documentation! This site provides comprehensive developer documentation for building and managing multi-brand experiences with Adobe Experience Manager.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the AEM Multi-Brand project documentation! This site provides comprehensive developer documentation for building and managing multi-brand experiences with Adobe Experience Manager.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-youll-find-here">What You'll Find Here<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/welcome#what-youll-find-here" class="hash-link" aria-label="Direct link to What You'll Find Here" title="Direct link to What You'll Find Here">​</a></h2>
+<p>This documentation covers:</p>
+<ul>
+<li><strong>Getting Started</strong>: Quick setup and installation guides</li>
+<li><strong>Theme Management</strong>: How to create and manage brand themes</li>
+<li><strong>Blocks</strong>: Reusable UI components for your projects</li>
+<li><strong>Deployment</strong>: How to deploy your multi-brand applications</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="project-structure">Project Structure<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/welcome#project-structure" class="hash-link" aria-label="Direct link to Project Structure" title="Direct link to Project Structure">​</a></h2>
+<p>The AEM Multi-Brand project is organized to support multiple brands with shared components and brand-specific customizations. Each brand can have its own theme while sharing common functionality.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="getting-started">Getting Started<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/welcome#getting-started" class="hash-link" aria-label="Direct link to Getting Started" title="Direct link to Getting Started">​</a></h2>
+<p>To get started with the AEM Multi-Brand project:</p>
+<ol>
+<li><strong>Install dependencies</strong>: <code>npm install</code></li>
+<li><strong>Initialize a new theme</strong>: <code>npm run scaffold:create</code></li>
+<li><strong>Start development</strong>: <code>npm start</code></li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="contributing">Contributing<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/welcome#contributing" class="hash-link" aria-label="Direct link to Contributing" title="Direct link to Contributing">​</a></h2>
+<p>We welcome contributions! Please create an issue or submit a pull request on GitHub for any improvements or bug reports.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="support">Support<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/welcome#support" class="hash-link" aria-label="Direct link to Support" title="Direct link to Support">​</a></h2>
+<ul>
+<li><strong>Documentation Issues</strong>: Create an issue in this repository</li>
+<li><strong>AEM Questions</strong>: Check <a href="https://stackoverflow.com/questions/tagged/aem" target="_blank" rel="noopener noreferrer">Stack Overflow</a></li>
+<li><strong>Community</strong>: Join our <a href="https://discordapp.com/invite/aem" target="_blank" rel="noopener noreferrer">Discord</a> community</li>
+</ul>
+<p>Happy coding! 🚀</p>]]></content>
+        <author>
+            <name>Adobe Team</name>
+            <uri>https://adobe.com</uri>
+        </author>
+        <category label="AEM" term="AEM"/>
+        <category label="Multi-Brand" term="Multi-Brand"/>
+        <category label="Documentation" term="Documentation"/>
+        <category label="Welcome" term="Welcome"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Documentation with MDX]]></title>
+        <id>https://acs-ui.github.io/eds-multi-brand-docs/blog/mdx-blog-post</id>
+        <link href="https://acs-ui.github.io/eds-multi-brand-docs/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post demonstrates how to use MDX (Markdown + JSX) to create interactive documentation for the EDS Multi-Brand project.]]></summary>
+        <content type="html"><![CDATA[<p>This blog post demonstrates how to use MDX (Markdown + JSX) to create interactive documentation for the EDS Multi-Brand project.</p>
+<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive documentation components.</p></div></div>
+<!-- -->
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="interactive-components">Interactive Components<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/mdx-blog-post#interactive-components" class="hash-link" aria-label="Direct link to Interactive Components" title="Direct link to Interactive Components">​</a></h2>
+<p>You can use JSX to create interactive components in your documentation. For example, here's an interactive theme preview:</p>
+<div class="language-jsx codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-jsx codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">button</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">onClick</span><span class="token tag script language-javascript script-punctuation punctuation" style="color:#393A34">=</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript punctuation" style="color:#393A34">(</span><span class="token tag script language-javascript punctuation" style="color:#393A34">)</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript arrow operator" style="color:#393A34">=&gt;</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript function" style="color:#d73a49">alert</span><span class="token tag script language-javascript punctuation" style="color:#393A34">(</span><span class="token tag script language-javascript string" style="color:#e3116c">'Theme preview clicked!'</span><span class="token tag script language-javascript punctuation" style="color:#393A34">)</span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text">Preview Theme</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">button</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre></div></div>
+<button>Preview Theme</button>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="benefits-of-mdx">Benefits of MDX<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/mdx-blog-post#benefits-of-mdx" class="hash-link" aria-label="Direct link to Benefits of MDX" title="Direct link to Benefits of MDX">​</a></h2>
+<ul>
+<li><strong>Interactive examples</strong>: Embed working components in documentation</li>
+<li><strong>Dynamic content</strong>: Create responsive documentation</li>
+<li><strong>Better engagement</strong>: Keep readers engaged with interactive elements</li>
+<li><strong>Code examples</strong>: Show live code examples with working demos</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-cases-for-eds-multi-brand">Use Cases for EDS Multi-Brand<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/mdx-blog-post#use-cases-for-eds-multi-brand" class="hash-link" aria-label="Direct link to Use Cases for EDS Multi-Brand" title="Direct link to Use Cases for EDS Multi-Brand">​</a></h2>
+<ul>
+<li>Theme configuration wizards</li>
+<li>Component preview tools</li>
+<li>Brand switching demos</li>
+<li>Interactive tutorials</li>
+</ul>
+<p>This makes our documentation more engaging and helps developers understand concepts faster!</p>]]></content>
+        <author>
+            <name>Adobe Team</name>
+            <uri>https://adobe.com</uri>
+        </author>
+        <category label="AEM" term="AEM"/>
+        <category label="MDX" term="MDX"/>
+        <category label="Documentation" term="Documentation"/>
+        <category label="Interactive" term="Interactive"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Dive: Multi-Brand Architecture]]></title>
+        <id>https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post</id>
+        <link href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a comprehensive guide to the EDS Multi-Brand architecture and implementation details.]]></summary>
+        <content type="html"><![CDATA[<p>This is a comprehensive guide to the EDS Multi-Brand architecture and implementation details.</p>
+<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="architecture-overview">Architecture Overview<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#architecture-overview" class="hash-link" aria-label="Direct link to Architecture Overview" title="Direct link to Architecture Overview">​</a></h2>
+<p>The EDS Multi-Brand project is built on a foundation of shared components and brand-specific theming. This architecture allows for maximum code reuse while maintaining brand differentiation.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="core-principles">Core Principles<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#core-principles" class="hash-link" aria-label="Direct link to Core Principles" title="Direct link to Core Principles">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-shared-component-library">1. Shared Component Library<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#1-shared-component-library" class="hash-link" aria-label="Direct link to 1. Shared Component Library" title="Direct link to 1. Shared Component Library">​</a></h3>
+<p>All brands share a common component library that provides consistent functionality across different brand experiences. This includes:</p>
+<ul>
+<li>Navigation components</li>
+<li>Content blocks</li>
+<li>Interactive elements</li>
+<li>Form components</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-brand-specific-theming">2. Brand-Specific Theming<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#2-brand-specific-theming" class="hash-link" aria-label="Direct link to 2. Brand-Specific Theming" title="Direct link to 2. Brand-Specific Theming">​</a></h3>
+<p>Each brand can have its own theme that customizes the appearance of shared components. Themes include:</p>
+<ul>
+<li>Color palettes</li>
+<li>Typography</li>
+<li>Spacing and layout</li>
+<li>Brand-specific assets</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-configuration-driven-development">3. Configuration-Driven Development<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#3-configuration-driven-development" class="hash-link" aria-label="Direct link to 3. Configuration-Driven Development" title="Direct link to 3. Configuration-Driven Development">​</a></h3>
+<p>The project uses configuration files to define brand-specific settings, making it easy to add new brands without code changes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementation-details">Implementation Details<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#implementation-details" class="hash-link" aria-label="Direct link to Implementation Details" title="Direct link to Implementation Details">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="theme-system">Theme System<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#theme-system" class="hash-link" aria-label="Direct link to Theme System" title="Direct link to Theme System">​</a></h3>
+<p>The theme system uses CSS custom properties to define brand variables:</p>
+<div class="language-css codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-css codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token selector pseudo-class" style="color:#00009f">:root</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token variable" style="color:#36acaa">--brand-primary</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> </span><span class="token hexcode color">#007bff</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token variable" style="color:#36acaa">--brand-secondary</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> </span><span class="token hexcode color">#6c757d</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token variable" style="color:#36acaa">--brand-accent</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> </span><span class="token hexcode color">#28a745</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></span></code></pre></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="component-structure">Component Structure<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#component-structure" class="hash-link" aria-label="Direct link to Component Structure" title="Direct link to Component Structure">​</a></h3>
+<p>Each component follows a consistent structure:</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">blocks/</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">├── component-name/</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│   ├── component-name.css</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│   ├── component-name.js</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│   └── block-config.js</span><br></span></code></pre></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="brand-configuration">Brand Configuration<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#brand-configuration" class="hash-link" aria-label="Direct link to Brand Configuration" title="Direct link to Brand Configuration">​</a></h3>
+<p>Brands are configured through environment variables and configuration files:</p>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">// Brand configuration</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> brands </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">brand1</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">name</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Brand One'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">theme</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'brand1-theme'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">assets</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'/brand1/assets'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">;</span><br></span></code></pre></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="best-practices">Best Practices<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#best-practices" class="hash-link" aria-label="Direct link to Best Practices" title="Direct link to Best Practices">​</a></h2>
+<ol>
+<li><strong>Always use shared components</strong> when possible</li>
+<li><strong>Keep brand-specific code minimal</strong></li>
+<li><strong>Test across all brands</strong> during development</li>
+<li><strong>Document brand requirements</strong> clearly</li>
+<li><strong>Use semantic HTML</strong> for accessibility</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="performance-considerations">Performance Considerations<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#performance-considerations" class="hash-link" aria-label="Direct link to Performance Considerations" title="Direct link to Performance Considerations">​</a></h2>
+<ul>
+<li>Shared components are cached across brands</li>
+<li>Brand-specific assets are loaded on demand</li>
+<li>CSS is optimized for each brand</li>
+<li>JavaScript is bundled efficiently</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="future-enhancements">Future Enhancements<a href="https://acs-ui.github.io/eds-multi-brand-docs/blog/long-blog-post#future-enhancements" class="hash-link" aria-label="Direct link to Future Enhancements" title="Direct link to Future Enhancements">​</a></h2>
+<p>We're planning several enhancements to the multi-brand system:</p>
+<ul>
+<li>Advanced theming capabilities</li>
+<li>Brand-specific component variants</li>
+<li>Automated brand testing</li>
+<li>Enhanced performance optimizations</li>
+</ul>
+<p>Stay tuned for more technical deep dives and implementation guides!</p>]]></content>
+        <author>
+            <name>Adobe Team</name>
+            <uri>https://adobe.com</uri>
+        </author>
+        <category label="AEM" term="AEM"/>
+        <category label="Architecture" term="Architecture"/>
+        <category label="Multi-Brand" term="Multi-Brand"/>
+        <category label="Technical" term="Technical"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDS Multi-Brand Project Launch]]></title>
+        <id>https://acs-ui.github.io/eds-multi-brand-docs/blog/first-blog-post</id>
+        <link href="https://acs-ui.github.io/eds-multi-brand-docs/blog/first-blog-post"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce the launch of the EDS Multi-Brand project! This project provides a comprehensive solution for managing multiple brands within Adobe Experience Manager.]]></summary>
+        <content type="html"><![CDATA[<p>We're excited to announce the launch of the EDS Multi-Brand project! This project provides a comprehensive solution for managing multiple brands within Adobe Experience Manager.</p>
+<p>The EDS Multi-Brand project enables developers to create and manage multiple brand experiences from a single codebase. With shared components and brand-specific theming, you can maintain consistency while allowing for brand differentiation.</p>
+<p>Key features include:</p>
+<ul>
+<li><strong>Multi-brand theming system</strong></li>
+<li><strong>Shared component library</strong></li>
+<li><strong>Brand-specific customizations</strong></li>
+<li><strong>Automated deployment workflows</strong></li>
+</ul>
+<p>Stay tuned for more updates and detailed documentation on how to get started with the EDS Multi-Brand project!</p>]]></content>
+        <author>
+            <name>Adobe Team</name>
+            <uri>https://adobe.com</uri>
+        </author>
+        <category label="AEM" term="AEM"/>
+        <category label="Multi-Brand" term="Multi-Brand"/>
+        <category label="Launch" term="Launch"/>
+        <category label="Announcement" term="Announcement"/>
+    </entry>
+</feed>
